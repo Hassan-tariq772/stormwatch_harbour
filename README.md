@@ -1,5 +1,7 @@
 # Stormwatch Harbour — CGD-460 Assignment 2
 
+Repository: https://github.com/Hassan-tariq772/stormwatch_harbour
+
 Hassan Tariq (232925) · BS Computer Games Development · CGD-460 Agentic Artificial Intelligence
 
 A small harbour-management simulation with a Lookout, Quartermaster, ten
