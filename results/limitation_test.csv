@@ -1,0 +1,4 @@
+policy,seed,cargo_delivered,knockouts,cargo_lost,ships_arrived,ships_completed,llm_calls,invalid_llm,fallbacks,holds
+hm,11,106,6,2,75,11,62,0,0,56
+hm,12,105,4,0,73,12,62,0,0,57
+hm,13,105,3,1,74,13,63,0,0,58
